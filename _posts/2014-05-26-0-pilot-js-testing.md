@@ -12,7 +12,7 @@ summary: "Как бросить все и начать тестировать ф
 
 #### Tools and libraries
 
-* [Karma](karma-runner.github.io) - Test Runner
+* [Karma](http://karma-runner.github.io) - Test Runner
 * [Karma-mocha](https://github.com/karma-runner/karma-mocha) - Adapter for the Mocha testing framework
 * [Karma-sinon-expect](https://github.com/maksimr/karma-sinon-expect) - Add sinon assert to expect
 * [Karma-borschik-preprocessor](https://github.com/maksimr/karma-borschik-preprocessor) - Example of custom(for Yandex.Mail) adapter
@@ -20,7 +20,7 @@ summary: "Как бросить все и начать тестировать ф
 * [Vim-Karma](https://github.com/maksimr/vim-karma) - Karma plugin for Vim
 
 * [Mocha](http://visionmedia.github.io/mocha/) - Testing framework
-* [Jasmine](jasmine.github.io) - Testing framework
+* [Jasmine](http://jasmine.github.io) - Testing framework
 
 * [Expect](https://github.com/LearnBoost/expect.js/) - Assert library
 
