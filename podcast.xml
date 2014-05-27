@@ -14,6 +14,8 @@ layout: nil
 
 <language>ru</language>
 
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+
 <copyright>&#xA9; 2014 Илья Заяц &amp; Артем Сущев</copyright>
 
 <itunes:subtitle>Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях</itunes:subtitle>
@@ -62,7 +64,7 @@ layout: nil
 
 <guid>http:{{ post.episode_url }}</guid>
 
-<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 
 <itunes:duration>{{ post.duration }}</itunes:duration>
 
