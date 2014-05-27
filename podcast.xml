@@ -1,0 +1,75 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<title>Frontflip Podcast</title>
+
+<link>http://frontflip.me/</link>
+
+<language>ru</language>
+
+<copyright>&#xA9; 2014 Илья Заяц &amp; Артем Сущев</copyright>
+
+<itunes:subtitle>Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях</itunes:subtitle>
+
+<itunes:author>Илья Заяц &amp; Артем Сущев</itunes:author>
+
+<itunes:keywords>ru, js, javascript, programming, development, web, html, css, frontend, it</itunes:keywords>
+
+<itunes:summary>Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях</itunes:summary>
+
+<description>Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях</description>
+
+<itunes:owner>
+
+<itunes:name>Илья Заяц</itunes:name>
+
+<itunes:email>somebody32@gmail.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:category text="Technology" />
+
+<itunes:new-feed-url>http://frontflip.me/podcast.xml</itunes:new-feed-url>
+
+ {% for post in site.posts limit:10 %}
+
+ <item>
+
+ <title>{{ post.title }}</title>
+
+ <link>http://frontflip.me{{post.url}}</link>
+
+ <description><![CDATA[{{ post.content }}]]></description>
+
+ <itunes:author>Илья Заяц &amp; Артем Сущев</itunes:author>
+
+ <itunes:subtitle>Frontflip: {{ post.title }}</itunes:subtitle>
+
+ <itunes:summary>{{ post.summary}}</itunes:summary>
+
+ <enclosure url="{{ post.episode_url }}" length="{{ post.length }}" type="audio/x-m4a" />
+
+ <guid>{{ post.episode_url }}</guid>
+
+ <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+
+ <itunes:duration>{{ post.duration }}</itunes:duration>
+
+ <itunes:explicit>no</itunes:explicit>
+
+ <itunes:keywords>ru, js, javascript, programming, development, web, html, css, frontend, it</itunes:keywords>
+
+ </item>
+
+ {% endfor %}
+
+</channel>
+
+</rss>

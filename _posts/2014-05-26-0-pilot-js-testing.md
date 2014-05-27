@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Пилотный выпуск. Тестирование JS с Максимом Рыжиковым
+episode_url: //please.frontflip.me/frontflip_0001.mp3
+length: 31122057
+duration: "45:03"
+summary: "Как бросить все и начать тестировать фронтенд. Рассказывает Максим Рыжиков"
 ---
-
-{{ page.title }}
-================
-<audio controls
-  src="//please.frontflip.me/frontflip_0001.mp3">
-</audio>
 
 В гостях [*Максим Рыжиков*](https://plus.google.com/+MaksimRyzhikov) ([rv.maksim@gmail.com](mailto:rv.maksim@gmail.com))
 
