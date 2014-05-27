@@ -58,7 +58,7 @@ layout: nil
 
  <itunes:image href="http://frontflip.me/images/logo.jpg"/>
 
- <enclosure url="http:{{ post.episode_url }}" length="{{ post.length }}" type="audio/x-m4a" />
+ <enclosure url="http:{{ post.episode_url }}" length="{{ post.length }}" type="audio/mpeg" />
 
  <guid>http:{{ post.episode_url }}</guid>
 
