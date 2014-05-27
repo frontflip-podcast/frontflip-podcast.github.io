@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: post
 title: Пилотный выпуск. Тестирование JS с Максимом Рыжиковым
 ---
 
@@ -45,6 +45,18 @@ title: Пилотный выпуск. Тестирование JS с Макси�
 *Максим*
 
  - [Clojure](http://clojure.org/)
- -  [Martin Fowler blog](http://martinfowler.com/)
+ - [Martin Fowler blog](http://martinfowler.com/)
  - [Introducing the software testing ice-cream cone (anti-pattern)](http://watirmelon.com/2012/01/31/introducing-the-software-testing-ice-cream-cone/) - About pyramid of testing
  - [INTRODUCING BDD](http://dannorth.net/introducing-bdd/)
+
+*Илья*
+
+- [React](http://facebook.github.io/react/)
+- [Flux](http://facebook.github.io/react/docs/flux-overview.html)
+- [Fluxxor](https://github.com/BinaryMuse/fluxxor)
+- [Piter United](http://piter-united.ru/)
+
+### Традиционный Flip GIF
+
+<p><small>Мы всей командой договорились писать тесты с завтрашнего дня</small></p>
+![Мы всей командой договорились писать тесты](/images/flipgifs/0.gif)
