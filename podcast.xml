@@ -28,6 +28,8 @@ layout: nil
 
 <itunes:image href="http://frontflip.me/images/logo.jpg"/>
 
+<itunes:explicit>no</itunes:explicit>
+
 <itunes:owner>
 
 <itunes:name>Илья Заяц</itunes:name>
@@ -38,41 +40,39 @@ layout: nil
 
 <itunes:category text="Technology" />
 
-<itunes:new-feed-url>http://frontflip.me/podcast.xml</itunes:new-feed-url>
+{% for post in site.posts limit:10 %}
 
- {% for post in site.posts limit:10 %}
+<item>
 
- <item>
+<title>{{ post.title }}</title>
 
- <title>{{ post.title }}</title>
+<link>http://frontflip.me{{post.url}}</link>
 
- <link>http://frontflip.me{{post.url}}</link>
+<description><![CDATA[{{ post.content }}]]></description>
 
- <description><![CDATA[{{ post.content }}]]></description>
+<itunes:author>Илья Заяц &amp; Артем Сущев</itunes:author>
 
- <itunes:author>Илья Заяц &amp; Артем Сущев</itunes:author>
+<itunes:subtitle>Frontflip: {{ post.title }}</itunes:subtitle>
 
- <itunes:subtitle>Frontflip: {{ post.title }}</itunes:subtitle>
+<itunes:summary>{{ post.summary}}</itunes:summary>
 
- <itunes:summary>{{ post.summary}}</itunes:summary>
+<itunes:image href="http://frontflip.me/images/logo.jpg"/>
 
- <itunes:image href="http://frontflip.me/images/logo.jpg"/>
+<enclosure url="http:{{ post.episode_url }}" length="{{ post.length }}" type="audio/mpeg" />
 
- <enclosure url="http:{{ post.episode_url }}" length="{{ post.length }}" type="audio/mpeg" />
+<guid>http:{{ post.episode_url }}</guid>
 
- <guid>http:{{ post.episode_url }}</guid>
+<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
 
- <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+<itunes:duration>{{ post.duration }}</itunes:duration>
 
- <itunes:duration>{{ post.duration }}</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
 
- <itunes:explicit>no</itunes:explicit>
+<itunes:keywords>ru, js, javascript, programming, development, web, html, css, frontend, it</itunes:keywords>
 
- <itunes:keywords>ru, js, javascript, programming, development, web, html, css, frontend, it</itunes:keywords>
+</item>
 
- </item>
-
- {% endfor %}
+{% endfor %}
 
 </channel>
 
