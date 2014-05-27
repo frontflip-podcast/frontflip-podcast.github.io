@@ -5,19 +5,13 @@ title: Пилотный выпуск. Тестирование JS с Макси�
 
 {{ page.title }}
 ================
+<audio controls
+  src="//please.frontflip.me/frontflip_0001.mp3">
+</audio>
 
-###Picks
-*Артем*
+В гостях [*Максим Рыжиков*](https://plus.google.com/+MaksimRyzhikov) ([rv.maksim@gmail.com](mailto:rv.maksim@gmail.com))
 
- - [klava.org](http://klava.org)
- - [typing.io](http://typing.io/)
- - [Atom](http://atom.io)
 
-[*Maksim Ryzhikov*](https://plus.google.com/+MaksimRyzhikov)
-
-Contact information:
- - Email: rv.maksim@gmail.com
- 
 #### Tools and libraries
 
 * [Karma](karma-runner.github.io) - Test Runner
@@ -41,9 +35,16 @@ Contact information:
 * [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) - Awesome book for big projects
 
 
-#### Others
+###Picks
+*Артем*
 
-* [Clojure](http://clojure.org/)
-* [Martin Fowler blog](http://martinfowler.com/)
-* [Introducing the software testing ice-cream cone (anti-pattern)](http://watirmelon.com/2012/01/31/introducing-the-software-testing-ice-cream-cone/) - About pyramid of testing
-* [INTRODUCING BDD](http://dannorth.net/introducing-bdd/)
+ - [klava.org](http://klava.org)
+ - [typing.io](http://typing.io/)
+ - [Atom](http://atom.io)
+
+*Максим*
+
+ - [Clojure](http://clojure.org/)
+ -  [Martin Fowler blog](http://martinfowler.com/)
+ - [Introducing the software testing ice-cream cone (anti-pattern)](http://watirmelon.com/2012/01/31/introducing-the-software-testing-ice-cream-cone/) - About pyramid of testing
+ - [INTRODUCING BDD](http://dannorth.net/introducing-bdd/)
