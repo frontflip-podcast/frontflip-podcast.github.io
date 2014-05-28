@@ -2,9 +2,11 @@
 layout: post
 title: Пилотный выпуск. Тестирование JS с Максимом Рыжиковым
 episode_url: //please.frontflip.me/frontflip_0001.mp3
+flipgif: http://frontflip.me/images/flipgifs/0.gif
+flipgif_desc: Мы всей командой договорились писать тесты с завтрашнего дня
 length: 31122057
 duration: "45:03"
-summary: "Как бросить все и начать тестировать фронтенд. Рассказывает Максим Рыжиков"
+summary: Как бросить все и начать тестировать фронтенд. Рассказывает Максим Рыжиков
 ---
 
 В гостях [*Максим Рыжиков*](https://plus.google.com/+MaksimRyzhikov) ([rv.maksim@gmail.com](mailto:rv.maksim@gmail.com))
@@ -53,8 +55,3 @@ summary: "Как бросить все и начать тестировать ф
 - [Flux](http://facebook.github.io/react/docs/flux-overview.html)
 - [Fluxxor](https://github.com/BinaryMuse/fluxxor)
 - [Piter United](http://piter-united.ru/)
-
-### Традиционный Flip GIF
-
-<p><small>Мы всей командой договорились писать тесты с завтрашнего дня</small></p>
-![Мы всей командой договорились писать тесты](http://frontflip.me/images/flipgifs/0.gif)
