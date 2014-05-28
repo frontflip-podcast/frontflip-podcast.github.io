@@ -60,9 +60,9 @@ layout: nil
 
 <itunes:image href="http://frontflip.me/images/logo.jpg"/>
 
-<enclosure url="http:{{ post.episode_url }}" length="{{ post.length }}" type="audio/mpeg" />
+<enclosure url="http:{{ post.episode_url }}.mp3" length="{{ post.length }}" type="audio/mpeg" />
 
-<guid>http:{{ post.episode_url }}</guid>
+<guid>http:{{ post.episode_url }}.mp3</guid>
 
 <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 
