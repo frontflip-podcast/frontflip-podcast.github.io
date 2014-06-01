@@ -28,7 +28,7 @@ layout: nil
 
 <description>Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях</description>
 
-<itunes:image href="http://frontflip.me/images/logo.jpg"/>
+<itunes:image href="http://please.frontflip.me/logo.jpg"/>
 
 <itunes:explicit>no</itunes:explicit>
 
@@ -58,7 +58,7 @@ layout: nil
 
 <itunes:summary>{{ post.summary}}</itunes:summary>
 
-<itunes:image href="http://frontflip.me/images/logo.jpg"/>
+<itunes:image href="http://please.frontflip.me/logo.jpg"/>
 
 <enclosure url="http:{{ post.episode_url }}.mp3" length="{{ post.length }}" type="audio/mpeg" />
 
