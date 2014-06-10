@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webpack, React и побег от assets pipeline. Александр Косс
+title: Webpack, React и побег от assets pipeline. Саша Косс
 episode_url: //please.frontflip.me/frontflip_0002
 flipgif: /images/flipgifs/1.gif
 flipgif_desc: Assets pipeline по мнению Саши Косса
@@ -9,7 +9,7 @@ duration: "48:28"
 summary: Собирались поговорить о сборщиках, но заслушались о реакте.
 ---
 
-В гостях [*Александр Косс*](https://twitter.com/kossnocorp)
+В гостях [*Саша Косс*](https://twitter.com/kossnocorp)
 
 
 #### Tools and libraries
@@ -35,7 +35,7 @@ summary: Собирались поговорить о сборщиках, но �
  - самокат
  - [Heartstone](http://eu.battle.net/hearthstone/ru/)
 
-*Александр*
+*Саша*
 
 - [Yeoman](http://yeoman.io/)
 - [Fluxxor](http://fluxxor.com/)
