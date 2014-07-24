@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Пилотный выпуск. Тестирование JS с Максимом Рыжиковым
+title: 0. Пилотный выпуск. Тестирование JS с Максимом Рыжиковым
 episode_url: //please.frontflip.me/frontflip_0001
 flipgif: http://frontflip.me/images/flipgifs/0.gif
 flipgif_desc: Мы всей командой договорились писать тесты с завтрашнего дня

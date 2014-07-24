@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webpack, React и побег от assets pipeline. Саша Косс
+title: 1. Webpack, React и побег от assets pipeline. Саша Косс
 episode_url: //please.frontflip.me/frontflip_0002
 flipgif: /images/flipgifs/1.gif
 flipgif_desc: Assets pipeline по мнению Саши Косса

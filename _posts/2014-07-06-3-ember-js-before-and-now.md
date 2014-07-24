@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ember.js раньше и сейчас. Павел Шаварда
+title: 3. Ember.js раньше и сейчас. Павел Шаварда
 episode_url: //please.frontflip.me/frontflip_0004
 flipgif: /images/flipgifs/3.gif
 flipgif_desc: Попытка успеть за развитием современных фреймворков
@@ -40,5 +40,5 @@ summary: Sproutecore -> Amber -> Ember, и немного о жизни в Па�
 
 - [React Nested Router](https://github.com/rpflorence/react-nested-router/)
 - [Ember Flip](http://flipme.co/).
-  Для получения скидки в 50 %, укажите в комментарии к платежу «слушатель frontflip».   
+  Для получения скидки в 50 %, укажите в комментарии к платежу «слушатель frontflip».
 - [SPB Frontend](https://plus.google.com/u/1/communities/104754387486747286577)
