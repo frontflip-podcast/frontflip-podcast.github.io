@@ -32,7 +32,7 @@ summary: Собирались поговорить о сборщиках, но �
 
 *Артем*
 
- - самокат
+ - [самокат](http://www.decathlon.ru/samokat-town7-susp-belyj-id_8129077.html)
  - [Heartstone](http://eu.battle.net/hearthstone/ru/)
 
 *Саша*
@@ -45,4 +45,3 @@ summary: Собирались поговорить о сборщиках, но �
 - [JavaScript for Automation:](https://developer.apple.com/library/prerelease/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/index.html#//apple_ref/doc/uid/TP40014508)
 - [Static apps guides](http://www.staticapps.org/)
 - [Divshot hosting](http://www.divshot.com/)
-
