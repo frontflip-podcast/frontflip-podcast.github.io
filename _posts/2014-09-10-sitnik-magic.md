@@ -6,7 +6,7 @@ flipgif: http://frontflip.me/images/flipgifs/6.gif
 flipgif_desc: Сборка проекта при помощи PostCSS плагинов
 length: 39804656
 duration: "55:17"
-summary: Пост- и препроцессоры css, история autoprefixer'a, опенсорÂсные войны и много магии.
+summary: Пост- и препроцессоры css, история autoprefixer'a, опенсорсные войны и много магии.
 ---
 
 В гостях [Андрей Ситник](https://twitter.com/andrey_sitnik)
