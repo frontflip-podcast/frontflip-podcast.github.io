@@ -2,11 +2,11 @@
 layout: post
 title: 6. Точка с запятой как оскорбление человека. Андрей Ситник
 episode_url: //please.frontflip.me/frontflip_0007
-flipgif:
-flipgif_desc:
+flipgif: http://frontflip.me/images/flipgifs/6.gif
+flipgif_desc: Сборка проекта при помощи PostCSS плагинов
 length: 39804656
 duration: "55:17"
-summary: Пост- и препроцессоры css, история autoprefixer'a, опенсорсные войны и много магии.
+summary: Пост- и препроцессоры css, история autoprefixer'a, опенсорÂсные войны и много магии.
 ---
 
 В гостях [Андрей Ситник](https://twitter.com/andrey_sitnik)
@@ -34,3 +34,5 @@ summary: Пост- и препроцессоры css, история autoprefixe
 *Андрей*
  - [rtlcss](https://github.com/MohammadYounes/rtlcss)
  - [Pleeease Filters](https://github.com/iamvdo/pleeease-filters)
+
+Если хотите быть гостем подкаста, то смело выбирайте любую ссылку слева и пишите, ждем.
