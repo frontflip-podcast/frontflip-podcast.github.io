@@ -4,8 +4,8 @@ title: 6. Точка с запятой как оскорбление челов�
 episode_url: //please.frontflip.me/frontflip_0007
 flipgif:
 flipgif_desc:
-length: 40044773
-duration: "55:37"
+length: 39804656
+duration: "55:17"
 summary: Пост- и препроцессоры css, история autoprefixer'a, опенсорсные войны и много магии.
 ---
 
