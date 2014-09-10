@@ -23,15 +23,18 @@ summary: Пост- и препроцессоры css, история autoprefixe
 
 ###Picks
 *Артем*
+
  - [impulse](impulse.luster.io)
 
 *Илья*
+
  - [SPB Frontend G+](https://plus.google.com/communities/104754387486747286577)
  - [SPB Frontend VK](https://vk.com/spb_frontend)
  - [SPB Frontend Twitter](https://vk.com/spb_frontend)
  - [Умами](http://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%B0%D0%BC%D0%B8)
 
 *Андрей*
+
  - [rtlcss](https://github.com/MohammadYounes/rtlcss)
  - [Pleeease Filters](https://github.com/iamvdo/pleeease-filters)
 
