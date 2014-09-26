@@ -24,7 +24,7 @@ summary: Пост- и препроцессоры css, история autoprefixe
 ###Picks
 *Артем*
 
- - [impulse](impulse.luster.io)
+ - [impulse](http://impulse.luster.io)
 
 *Илья*
 
