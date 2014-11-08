@@ -56,7 +56,7 @@ layout: nil
 
 <itunes:subtitle>Frontflip: {{ post.title }}</itunes:subtitle>
 
-<itunes:summary>{{ post.summary}}</itunes:summary>
+<itunes:summary>{{ post.content | strip_html }}</itunes:summary>
 
 <itunes:image href="http://please.frontflip.me/logo.jpg"/>
 
