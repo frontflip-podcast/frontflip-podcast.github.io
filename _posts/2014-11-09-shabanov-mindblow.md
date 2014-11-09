@@ -29,6 +29,7 @@ summary: фронтэнд вчера и сегодня, meteor.js
 *Вячеслав*
 
  - [julius.js](https://github.com/zzmp/juliusjs)
+ - [volt](https://github.com/voltrb/volt)
  - [instant.io](http://instant.io/)
  - [graphify for Neo4j](https://github.com/kbastani/graphify)
 
