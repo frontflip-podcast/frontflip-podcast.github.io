@@ -38,4 +38,4 @@ summary: фронтэнд вчера и сегодня, meteor.js
  - SVG
  - [SPB Frontend G+](https://plus.google.com/communities/104754387486747286577)
  - [SPB Frontend VK](https://vk.com/spb_frontend)
- - [SPB Frontend Twitter](https://vk.com/spb_frontend)
+ - [SPB Frontend Twitter](https://twitter.com/spb_frontend)
