@@ -163,7 +163,6 @@ section.top {
   width: 75%;
   /* float: right; */
   padding-bottom: 50px;
-  margin-left: 330px;
 }
 
 small {
@@ -210,6 +209,10 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
+  }
+  
+  section.top {
+    margin-left: 330px;
   }
 
   header a small {
