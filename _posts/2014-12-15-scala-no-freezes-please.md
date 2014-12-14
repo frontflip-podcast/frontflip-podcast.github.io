@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ScalaJS, многопотоочность и неблокируемый UI
+title: 9. ScalaJS, многопотоочность и неблокируемый UI
 episode_url: //please.frontflip.me/frontflip_0010
 flipgif: http://frontflip.me/images/flipgifs/9.gif
 flipgif_desc: проекция DOM в веб-воркер
