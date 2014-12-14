@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9. ScalaJS, многопотоочность и неблокируемый UI
+title: 9. ScalaJS, многопоточность и неблокируемый UI
 episode_url: //please.frontflip.me/frontflip_0010
 flipgif: http://frontflip.me/images/flipgifs/9.gif
 flipgif_desc: проекция DOM в веб-воркер
@@ -33,20 +33,23 @@ summary: scala на фронтенде, проблемы блокировки UI
 38:05 пики
 </pre>
 
-Статья про «мурку» – https://medium.com/@yelbota/-18195d44f574
+[Статья про «мурку»](https://medium.com/@yelbota/-18195d44f574)
 
 ###Picks
 
 *Артем*
+
 - Stepic ♥ линукс
  - [сам курс](https://stepic.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Linux-73/)
  - [как мы запускаем сервера на лету](http://habrahabr.ru/company/stepic/blog/246099/)
 
 *Илья*
+
 - [BonsaiJS](https://bonsaijs.org)
 - [ZenRus](http://zenrus.ru)
 
 *Алексей*
+
 - [Душкин Р.В. Квантовые вычисления и функциональное программирование](http://www.twirpx.com/file/1530788/)
 - [Новый браузерный движок Servo](https://github.com/servo/servo)
 
