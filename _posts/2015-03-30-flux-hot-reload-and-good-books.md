@@ -15,7 +15,7 @@ summary: Как понять flux, каких ошибок избегать и �
 3:18 Gradual typing/Flow.js
 5:35 от бекбона к реакту
 6:58 реакт — вирус
-7:48 [The case for flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
+7:48 The case for flux (https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
 8:40 основные ошибки с flux
 10:20 какую текущую реализацию выбрать
 14:12 ретроспектива года с реактом
@@ -36,7 +36,7 @@ summary: Как понять flux, каких ошибок избегать и �
 
 *Артем*
 
-_ [Doppler](http://danielrapp.github.io/doppler/)
+- [Doppler](http://danielrapp.github.io/doppler/)
 - [Hackday](http://hackday.ru/hackday-36)
 
 *Илья*
