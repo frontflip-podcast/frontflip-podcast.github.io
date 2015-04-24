@@ -61,4 +61,8 @@ summary: Как meteor.js работает внутри, правда ли вс�
 - [Don't React](http://staltz.com/dont-react/)
 
 *Слава Ким*
+
 - [Sapiens: A Brief History of Humankind](http://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/)
+
+
+Не забывайте оценивать нас в [iTunes](https://itunes.apple.com/ru/podcast/frontflip/id884716456) и подписываться в [Твиттере](https://twitter.com/frontflip_js)
