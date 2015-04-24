@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 11. Meteor.js в подробностях. Слава Ким
-episode_url: //please.frontflip.me/frontflip_0012
-length: 31692013 31 692 013
-duration: "52:49"
+episode_url: //please.frontflip.me/frontflip_0013
+length: 4924188
+duration: "1:42:35"
 summary: Как meteor.js работает внутри, правда ли все то, что о нем говорят злопыхатели и надо ли его уже пробовать сейчас? Рассказывает участник core team Слава Ким.
 ---
 
