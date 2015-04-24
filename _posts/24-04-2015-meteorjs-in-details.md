@@ -7,7 +7,7 @@ duration: "1:42:35"
 summary: Как meteor.js работает внутри, правда ли все то, что о нем говорят злопыхатели и стоит ли пробовать его уже сейчас? Рассказывает участник core team Слава Ким.
 ---
 
-В гостях [Слава Ким](https://twitter.com/imslavko)
+В гостях [Слава Ким](https://twitter.com/imslavko) и [Вячеслав Шебанов](https://twitter.com/thought_sync)
 
 <pre>
 01:27 что такое meteor.js и как он начался?
@@ -32,17 +32,17 @@ summary: Как meteor.js работает внутри, правда ли вс�
 
 ### Ссылки от Славы
 
-* [https://github.com/meteor/meteor/wiki/Tracker-Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
-* [https://github.com/meteorhacks/fast-render](https://github.com/meteorhacks/fast-render)
-* [https://github.com/numtel/meteor-mysql](https://github.com/numtel/meteor-mysql)
-* [https://github.com/austinrivas/meteor-postgresql](https://github.com/austinrivas/meteor-postgresql)
-* [https://github.com/hharnisc/react-native-meteor](https://github.com/hharnisc/react-native-meteor)
-* [https://github.com/martijnwalraven/meteor-ios](https://github.com/martijnwalraven/meteor-ios)
-* [http://ru.discovermeteor.com](http://ru.discovermeteor.com)
-* [http://www.meteorpedia.com/read/Main_Page](http://www.meteorpedia.com/read/Main_Page)
-* [http://www.meteorpedia.com/read/DDP_Clients](http://www.meteorpedia.com/read/DDP_Clients)
-* [https://forums.meteor.com/](https://forums.meteor.com/)
-* [https://mdg.hackpad.com/](https://mdg.hackpad.com/)
+* архитектура реактивности в meteor.js [https://github.com/meteor/meteor/wiki/Tracker-Manual](https://github.com/meteor/meteor/wiki/Tracker-Manual)
+* серверный "пре-рендер" для ускорения загрузки [https://github.com/meteorhacks/fast-render](https://github.com/meteorhacks/fast-render)
+* MySQL для meteor [https://github.com/numtel/meteor-mysql](https://github.com/numtel/meteor-mysql)
+* PostgreSQL для meteor [https://github.com/austinrivas/meteor-postgresql](https://github.com/austinrivas/meteor-postgresql)
+* React-native + meteor [https://github.com/hharnisc/react-native-meteor](https://github.com/hharnisc/react-native-meteor)
+* meteor iOS[https://github.com/martijnwalraven/meteor-ios](https://github.com/martijnwalraven/meteor-ios)
+* книга на русском [http://ru.discovermeteor.com](http://ru.discovermeteor.com)
+* meteor wiki [http://www.meteorpedia.com/read/Main_Page](http://www.meteorpedia.com/read/Main_Page)
+* различные DDP клиенты [http://www.meteorpedia.com/read/DDP_Clients](http://www.meteorpedia.com/read/DDP_Clients)
+* форумы meteor [https://forums.meteor.com/](https://forums.meteor.com/)
+* hackpad со спойлерами от core team (просите инвайт) [https://mdg.hackpad.com/](https://mdg.hackpad.com/)
 
 ###Picks
 
