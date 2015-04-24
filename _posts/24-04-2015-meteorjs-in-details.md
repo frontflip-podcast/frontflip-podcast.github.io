@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 11. Meteor.js в подробностях. Слава Ким
+title: 12. Meteor.js в подробностях. Слава Ким
 episode_url: //please.frontflip.me/frontflip_0013
 length: 4924188
 duration: "1:42:35"
