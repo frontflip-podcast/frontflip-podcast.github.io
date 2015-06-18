@@ -29,6 +29,9 @@ summary: Стоит ли переписывать свое приложение 
 1:03:40 picks
 </pre>
 
+### Для любителей рефлексии
+Советуем вспомнить, что с Ember.js было год назад — [http://frontflip.me/2014/07/06/3-ember-js-before-and-now.html](http://frontflip.me/2014/07/06/3-ember-js-before-and-now.html)
+
 ### Ссылки от Андрея
 
  * [Orbit.js](https://github.com/orbitjs/orbit.js) и [Ember Orbit](https://github.com/orbitjs/ember-orbit)
