@@ -35,7 +35,7 @@ summary: Стоит ли переписывать свое приложение 
  * [Ember Inspector Bookmarklet](https://github.com/emberjs/ember-inspector#bookmarklet-all-browsers) для всех браузеров
  * [Блог DockYard](https://dockyard.com/blog) работает на [FastBoot](https://github.com/tildeio/ember-cli-fastboot)
  * [Канал Ember NYC на YouTube](https://www.youtube.com/user/EmberNYC/videos)
- 9. Каталог аддонов для Ember CLI: [http://emberobserver.com/](http://emberobserver.com/) и [http://www.emberaddons.com/](http://www.emberaddons.com/)
+ * Каталог аддонов для Ember CLI: [http://emberobserver.com/](http://emberobserver.com/) и [http://www.emberaddons.com/](http://www.emberaddons.com/)
 
 ###Picks
 
