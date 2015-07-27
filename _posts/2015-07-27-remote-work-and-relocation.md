@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 14. Удаленка, переезд и изменение жизни к лучшему.
+title: 14. Удаленка, переезд и изменение жизни к лучшему
 episode_url: //please.frontflip.me/frontflip_0015
 length: 88296723
 duration: "1:31:58"
