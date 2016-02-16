@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Мы ищем таланты
+title: Мы ищем гостей
 ---
 
 # Темы, которые нам интересны
 
-Есть что рассказать по любой из тем или знаете того, кто мог бы?    
+Есть что рассказать по любой из тем или можете посоветовать гостя?    
 Отправьте письмо <a href="mailto:somebody32@gmail.com">Илье</a> или <a href="mailto:hiddih@gmail.com">Артему</a>, и мы согласуем с вами все детали.
 
 ## Elm
@@ -21,4 +21,4 @@ title: Мы ищем таланты
 Используете GraphQL/Relay в продакшене? Расскажите о впечатлениях и проблемах на пути.
 
 ## Ваша идея
-Если у вас есть идея или гость на примете, то отправьте нам письмо или <a href="https://github.com/frontflip-podcast/frontflip-podcast.github.io">пулл-реквест</a>.
+Если у вас есть идея или гость на примете, то отправьте нам <a href="mailto:somebody32@gmail.com">пис</a><a href="mailto:hiddih@gmail.com">ьмо</a> или пишите в твиттер <a href="https://twitter.com/frontflip_js">@frontflip_js</a>.
