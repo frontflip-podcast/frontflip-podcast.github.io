@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 15. GraphQL, Relay. Почему уже не нужен REST?
-episode_url: //please.frontflip.me/frontflip_0015
-length: 88296723
-duration: "1:31:58"
-summary: Михаил Новиков рассказывает о том, что не так с REST'ом, о GraphQL и Relay и как на это все мигрировать.
+episode_url: //please.frontflip.me/frontflip_0016
+length: 34171810
+duration: "56:57"
+summary: Михаил Новиков рассказывает о проблемах REST'а, сути GraphQL и Relay и о том, как на это все мигрировать.
 ---
 
 В гостях [Михаил Новиков](https://twitter.com/freiksenet_ru)
