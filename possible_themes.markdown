@@ -20,8 +20,8 @@ title: Мы ищем гостей
 ## React Native
 Легко ли начать создавать мобильные приложения, имея только опыт веб-разработки?
 
-## ~~GraphQL/Relay в production~~ ([15-й выпуск](/2016/03/02/graphql-relay.html))
-Используете GraphQL/Relay в продакшене? Расскажите о впечатлениях и проблемах на пути.
+## GraphQL/Relay в production ([15-й выпуск](/2016/03/02/graphql-relay.html))
+<span class="strikethrough">Используете GraphQL/Relay в продакшене? Расскажите о впечатлениях и проблемах на пути.</span>
 
 ## Ваша идея
 Если у вас есть идея или гость на примете, то отправьте нам <a href="mailto:somebody32@gmail.com">пис</a><a href="mailto:hiddih@gmail.com">ьмо</a> или пишите в твиттер <a href="https://twitter.com/frontflip_js">@frontflip_js</a>.

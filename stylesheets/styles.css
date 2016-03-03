@@ -211,7 +211,7 @@ footer {
     padding:20px 0;
     margin:0 0 20px;
   }
-  
+
   section.top {
     margin-left: 0px;
   }
@@ -261,4 +261,8 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.strikethrough {
+  text-decoration: line-through;
 }
