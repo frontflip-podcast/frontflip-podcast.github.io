@@ -7,7 +7,7 @@ duration: "56:57"
 summary: Михаил Новиков рассказывает о проблемах REST'а, сути GraphQL и Relay и о том, как на это все мигрировать.
 ---
 
-В гостях [Михаил Новиков](https://twitter.com/freiksenet_ru)
+В гостях [Михаил Новиков](https://twitter.com/freiksenet_ru).
 
 
 <pre>

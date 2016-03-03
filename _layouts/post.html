@@ -6,10 +6,9 @@ layout: default
   <h1>{{ page.title }}</h1>
   <audio controls>
     <source src="{{page.episode_url}}.mp3" type="audio/mpeg">
-    <source src="{{page.episode_url}}.ogg" type="audio/ogg">
   </audio>
   <p>
-    Прямые ссылки на <a href="{{page.episode_url}}.mp3" download>mp3</a> и <a href="{{page.episode_url}}.ogg" download>ogg</a>
+    Прямая ссылка на <a href="{{page.episode_url}}.mp3" download>mp3</a>.
   </p>
 
   {{ content }}
