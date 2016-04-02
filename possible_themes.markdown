@@ -25,3 +25,5 @@ title: Мы ищем гостей
 
 ## Ваша идея
 Если у вас есть идея или гость на примете, то отправьте нам <a href="mailto:somebody32@gmail.com">пис</a><a href="mailto:hiddih@gmail.com">ьмо</a> или пишите в твиттер <a href="https://twitter.com/frontflip_js">@frontflip_js</a>.
+
+<div id="disqus_thread"></div>
