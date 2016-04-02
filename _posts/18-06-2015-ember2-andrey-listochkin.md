@@ -40,7 +40,7 @@ summary: Стоит ли переписывать свое приложение 
  * [Канал Ember NYC на YouTube](https://www.youtube.com/user/EmberNYC/videos)
  * Каталог аддонов для Ember CLI: [http://emberobserver.com/](http://emberobserver.com/) и [http://www.emberaddons.com/](http://www.emberaddons.com/)
 
-###Picks
+### Picks
 
 *Артем*
 

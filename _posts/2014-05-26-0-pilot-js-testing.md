@@ -35,7 +35,7 @@ summary: Как бросить все и начать тестировать ф�
 * [Working Effectively with Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) - Awesome book for big projects
 
 
-###Picks
+### Picks
 *Артем*
 
  - [klava.org](http://klava.org)

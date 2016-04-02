@@ -35,13 +35,13 @@ summary: scala на фронтенде, проблемы блокировки UI
 
 [Статья про «мурку»](https://medium.com/@yelbota/-18195d44f574)
 
-###Picks
+### Picks
 
 *Артем*
 
 - Stepic ♥ линукс
- - [сам курс](https://stepic.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Linux-73/)
- - [как мы запускаем сервера на лету](http://habrahabr.ru/company/stepic/blog/246099/)
+- [сам курс](https://stepic.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Linux-73/)
+- [как мы запускаем сервера на лету](http://habrahabr.ru/company/stepic/blog/246099/)
 
 *Илья*
 
@@ -52,4 +52,3 @@ summary: scala на фронтенде, проблемы блокировки UI
 
 - [Душкин Р.В. Квантовые вычисления и функциональное программирование](http://www.twirpx.com/file/1530788/)
 - [Новый браузерный движок Servo](https://github.com/servo/servo)
-

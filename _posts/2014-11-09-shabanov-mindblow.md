@@ -3,7 +3,7 @@ layout: post
 title: 7.  Куда катится фронтэнд. Вячеслав Шебанов
 episode_url: //please.frontflip.me/frontflip_0008
 flipgif: http://frontflip.me/images/flipgifs/7.gif
-flipgif_desc: Вы писали проект на meteor.js, как внезапно пришел запрос на server side rendering 
+flipgif_desc: Вы писали проект на meteor.js, как внезапно пришел запрос на server side rendering
 length: 46930547
 duration: "1:18:13"
 summary: фронтэнд вчера и сегодня, meteor.js
@@ -21,7 +21,7 @@ summary: фронтэнд вчера и сегодня, meteor.js
 1:04:48 Picks
 </pre>
 
-###Picks
+### Picks
 *Артем*
 
  - ДР Леши Плуталова

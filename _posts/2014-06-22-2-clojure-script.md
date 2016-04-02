@@ -21,7 +21,7 @@ summary: И clojurescript как лучший способ применить н
 * [SICP](http://deptinfo.unice.fr/~roy/sicp.pdf)
 * [SICP по-русски](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
 
-###Picks
+### Picks
 
 *Артем*
 

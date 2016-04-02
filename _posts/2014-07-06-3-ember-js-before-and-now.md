@@ -19,7 +19,7 @@ summary: Sproutecore -> Amber -> Ember, и немного о жизни в Па�
 * [Cappuccino](http://www.cappuccino-project.org/)
 * [Amber → Ember](http://yehudakatz.com/2011/12/12/amber-js-formerly-sproutcore-2-0-is-now-ember-js/)
 
-###Picks
+### Picks
 
 *Артем*
 

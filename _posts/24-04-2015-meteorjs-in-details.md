@@ -44,7 +44,7 @@ summary: Как meteor.js работает внутри, правда ли вс�
 * форумы meteor [https://forums.meteor.com/](https://forums.meteor.com/)
 * hackpad со спойлерами от core team (просите инвайт) [https://mdg.hackpad.com/](https://mdg.hackpad.com/)
 
-###Picks
+### Picks
 
 *Артем*
 

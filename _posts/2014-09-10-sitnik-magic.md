@@ -11,7 +11,7 @@ summary: Пост- и препроцессоры css, история autoprefixe
 
 В гостях [Андрей Ситник](https://twitter.com/andrey_sitnik)
 
-##Links
+## Links
  - [Autoprefixer](https://github.com/postcss/autoprefixer)
  - [Rework](https://github.com/reworkcss/rework)
  - [Compass](http://compass-style.org/)
@@ -21,7 +21,7 @@ summary: Пост- и препроцессоры css, история autoprefixe
  - [Webpack](https://webpack.github.io/)
 
 
-###Picks
+### Picks
 *Артем*
 
  - [impulse](http://impulse.luster.io)

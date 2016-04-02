@@ -22,7 +22,7 @@ summary: Собирались поговорить о сборщиках, но �
 * [Broccoli](https://github.com/broccolijs/broccoli)
 
 
-###Picks
+### Picks
 
 *Илья*
 
