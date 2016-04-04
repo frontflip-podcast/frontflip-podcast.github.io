@@ -11,7 +11,7 @@ summary: Владимир Агафонкин рассказывает, как п
 
 ### Информационный партнер
 
-Партнер этого выпуска — [конференция DUMP](dump-conf.ru) в Екатеринбурге. Один день, 7 треков, 60 выступлений.   
+Партнер этого выпуска — [конференция DUMP](http://dump-conf.ru) в Екатеринбурге. Один день, 7 треков, 60 выступлений.   
 Пройдет 8 апреля: с момента выхода этого эпизода у вас будет еще неделя, чтобы решиться. Мы настоятельно советуем это сделать.
 
 Послание другим возможным партнерам: <a href="mailto:somebody32@gmail.com,hiddih@gmail.com">напишите</a> нам.
@@ -58,7 +58,12 @@ summary: Владимир Агафонкин рассказывает, как п
 *Артем*
 
 - [Git bisect](https://git-scm.com/book/en/v2/Git-Tools-Debugging-with-Git#Binary-Search)
-- Meteor deploy больше не работает
+- Meteor deploy больше не бесплатный
+  - [surge.sh](https://surge.sh/) статический хостинг
+  - [hood.ie](http://hood.ie/) PAAS
+  - [firebase.com](https://www.firebase.com/) PAAS
+  - [galaxy](https://www.meteor.com/galaxy) PAAS для meteor.js
+  - [phusionpassenger](https://www.phusionpassenger.com/) PAAS для meteor.js
 
 *Илья*
 
