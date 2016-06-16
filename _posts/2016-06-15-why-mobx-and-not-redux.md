@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "18. «Уговори меня поменять Redux на MobX». Петр Мязин"
-episode_url: //please.frontflip.me/frontflip_0018
-length: 52241752
-duration: "01:27:04"
+episode_url: //feeds.soundcloud.com/stream/269356298-frontflipjs-18-redux-mobx
+length: 46911989
+duration: "01:18:11"
 summary: Правда ли mobx быстрее и легче в использовании, чем redux? И что в итоге получается меньше кода? Или все это хайп? Про свой опыт рассказывает Петр Мязин.
 ---
 
-В гостях Петр Мязин.
+В гостях [Петр Мязин](https://twitter.com/PetrMyazin).
 
 ### Содержание выпуска
 
@@ -39,8 +39,9 @@ summary: Правда ли mobx быстрее и легче в использо
 
 * [Ember run loop](https://guides.emberjs.com/v2.6.0/applications/run-loop/)
 * [Why Ember.js Doesn't Use Property Descriptors](http://jfire.io/blog/2012/04/19/why-ember-dot-js-doesnt-use-property-descriptors/)
-* [Синхронность MobX](https://mobxjs.github.io/mobx/getting-started.html) и русский [перевод]( https://habrahabr.ru/post/282578/)
-* [High Performance Redux](somebody32.github.io/high-performance-redux/)
+* [MobX за 10 минут](https://mobxjs.github.io/mobx/getting-started.html) и русский [перевод](https://habrahabr.ru/post/282578/)
+* [Синхронность MobX](https://medium.com/@mweststrate/3-reasons-why-i-stopped-using-react-setstate-ab73fc67a42e)
+* [High Performance Redux](https://somebody32.github.io/high-performance-redux/)
 * [Примеры на JSFiddle](https://github.com/mattruby/mobx-examples)
 
 ### Picks
@@ -57,7 +58,7 @@ summary: Правда ли mobx быстрее и легче в использо
 
 *Илья*
 
-- [High Performance Redux](somebody32.github.io/high-performance-redux/)
+- [High Performance Redux](https://somebody32.github.io/high-performance-redux/)
 - [Wireless Power Outlets](https://timleland.com/wireless-power-outlets/)
 
 У нас есть страница с [темами для будущих выпусков](http://frontflip.me/possible_themes.html). Рассказывайте друзьям и приходите сами!
