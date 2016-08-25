@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "20. Elm и ядовитый утконос. Игорь Капков"
-episode_url:
-length:
-duration:
+episode_url: //feeds.soundcloud.com/stream/279807341-frontflipjs-20-elm-i-yadovityy-utkonos-igor-kapkov
+length: 44641948
+duration: "01:14:24"
 summary: Что такое язык elm, и почему о нем так много говорят последнее время? Какие проблемы js-разработчика он может решить? И правда ли утконос ядовит? Рассказывает Игорь Капков.
 ---
+
+В гостях [Игорь Капков](http://igas.me/).
 
 ### Содержание выпуска
 
@@ -30,6 +32,7 @@ summary: Что такое язык elm, и почему о нем так мно
 ### Ссылки из выпуска
 
 - [Changelog #187: Redux, React, and Functional JavaScript with Dan Abramov](https://changelog.com/187/)
+- [Твит Джона Кармака](https://twitter.com/ID_AA_Carmack/status/735197548034412546)
 - [Elm Guide](http://guide.elm-lang.org/)
 - [Daily Drip](https://www.dailydrip.com/)
 - [Elm in Action](https://manning.com/books/elm-in-action)
